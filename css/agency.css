@@ -314,6 +314,7 @@ header.masthead .intro-text .intro-heading {
 @media (min-width: 767px) {
   #portfolio .portfolio-item {
     margin: 0 0 30px;
+    background-color: transparent;
   }
 }
 
@@ -391,6 +392,15 @@ header.masthead .intro-text .intro-heading {
   -webkit-transform: rotate(90deg);
   transform: rotate(90deg);
   background-color: #212529;
+}
+
+#modal-link {
+  color: #f1b4b2 !important;
+  text-decoration: none;
+}
+
+#modal-link:hover {
+  color: #212529 !important;
 }
 
 .timeline {
