@@ -243,12 +243,13 @@ header.masthead .intro-text .intro-heading {
 #portfolio .portfolio-item {
   right: 0;
   margin: 0 0 15px;
+  padding: 20px;
 }
 
 #portfolio .portfolio-item .portfolio-link {
   position: relative;
   display: block;
-  max-width: 400px;
+  max-width: 700px;
   margin: 0 auto;
   cursor: pointer;
 }
@@ -288,9 +289,9 @@ header.masthead .intro-text .intro-heading {
 }
 
 #portfolio .portfolio-item .portfolio-caption {
-  max-width: 400px;
+  max-width: 700px;
   margin: 0 auto;
-  padding: 25px;
+  padding: 30px;
   text-align: center;
   background-color: #fff;
 }
